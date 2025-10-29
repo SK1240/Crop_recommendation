@@ -51,3 +51,13 @@ This makes it an efficient, interpretable, and reliable recommendation system fo
 * The trained **KNN model** processes these values and compares them with the dataset.
 
 * Based on similarity, the model outputs the recommended crop that is most likely to yield well.
+
+## 🎯 Output
+
+✅ **Recommended Crop Name** — optimized for soil and climate conditions provided by the user.
+
+💻 Deployment
+
+The application runs seamlessly through **Streamlit**, allowing real-time interaction with minimal setup.
+
+The app can be deployed locally or hosted on platforms such as Streamlit Cloud or Render for wider accessibility.
