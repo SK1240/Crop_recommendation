@@ -80,3 +80,14 @@ pip install -r requirements.txt
 ```
 streamlit run app.py
 ```
+
+## 🗂️ Project Structure
+```
+Crop-Recommendation-System/
+│
+├── app.py                     # Main Streamlit web application
+├── model.pkl                  # Trained KNN model file (stored using Pickle)
+├── dataset.csv                # Crop recommendation dataset (internship-provided)
+├── requirements.txt           # List of dependencies
+└──README.md                  # Project documentation
+```
