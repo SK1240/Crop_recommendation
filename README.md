@@ -93,3 +93,29 @@ Crop_recommendation/
 └── README.md                     # Project documentation
 
 ```
+
+Each file serves a clear purpose:
+
+* `app.py` → Handles the app’s logic and user interaction.
+
+* `crop_recommendation.ipynb` → Contains data analysis, preprocessing, and model training steps.
+
+* `knn_crop_model.pkl` → Stores the pre-trained KNN model for quick predictions.
+
+* `Crop_recommendation_data.csv` → Dataset used during internship.
+
+* `requirements.txt` → Ensures easy setup for other users or recruiters.
+
+* `README.md` → Provides complete project documentation.
+
+## 🌟 Highlights
+
+🌿 Completed during Data Science Internship to apply ML in agriculture.
+
+⚡ Predicts optimal crops with speed and accuracy.
+
+💾 Stores trained model using Pickle for efficient loading.
+
+📓 Includes Jupyter Notebook for transparent model-building workflow.
+
+💬 Simple, interactive, and user-friendly Streamlit interface.
