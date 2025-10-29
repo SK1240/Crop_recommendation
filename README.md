@@ -10,6 +10,6 @@ A smart **Machine Learning-powered** web app built using **Streamlit** and the *
 
 * 🤖 scikit-learn (KNN Model) — used for building and training the K-Nearest Neighbors classification model.
 
-* 💾 Pickle — utilized for saving and loading the trained model (model.pkl) to enable fast, reusable predictions.
+* 💾 Pickle — utilized for saving and loading the trained model (`knn_crop_model`.pkl) to enable fast, reusable predictions.
 
 * 🌐 Streamlit — for developing an interactive and lightweight web application with real-time user inputs.
