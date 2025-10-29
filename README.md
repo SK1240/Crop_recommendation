@@ -13,3 +13,27 @@ A smart **Machine Learning-powered** web app built using **Streamlit** and the *
 * 💾 Pickle — utilized for saving and loading the trained model (`knn_crop_model`.pkl) to enable fast, reusable predictions.
 
 * 🌐 Streamlit — for developing an interactive and lightweight web application with real-time user inputs.
+
+## 🌱 Dataset
+
+* Source: Dataset provided during my *Data Science Internship*, originally based on the *Kaggle Crop Recommendation Dataset*.
+
+* Description: The dataset contains soil nutrient values and climatic parameters used to recommend the most suitable crop for cultivation.
+
+* Features Used:
+
+     * N (Nitrogen)
+
+     * P (Phosphorus)
+
+     * K (Potassium)
+
+     * Temperature
+
+     * Humidity
+
+     * pH
+
+     * Rainfall
+
+     * Label (Crop Type)
