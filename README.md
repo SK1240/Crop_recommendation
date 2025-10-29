@@ -83,11 +83,13 @@ streamlit run app.py
 
 ## 🗂️ Project Structure
 ```
-Crop-Recommendation-System/
+Crop_recommendation/
 │
-├── app.py                     # Main Streamlit web application
-├── model.pkl                  # Trained KNN model file (stored using Pickle)
-├── dataset.csv                # Crop recommendation dataset (internship-provided)
-├── requirements.txt           # List of dependencies
-└──README.md                  # Project documentation
+├── app.py                        # Main Streamlit web application
+├── crop_recommendation.ipynb     # Jupyter Notebook for model training and analysis
+├── knn_crop_model.pkl            # Trained KNN model file (stored using Pickle)
+├── Crop_recommendation_data.csv  # Crop recommendation dataset 
+├── requirements.txt              # List of dependencies
+└── README.md                     # Project documentation
+
 ```
