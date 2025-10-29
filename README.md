@@ -119,3 +119,8 @@ Each file serves a clear purpose:
 📓 Includes Jupyter Notebook for transparent model-building workflow.
 
 💬 Simple, interactive, and user-friendly Streamlit interface.
+
+## 📜 License
+
+This project is released for educational and learning purposes as part of my Data Science Internship.
+Feel free to explore, learn, and build upon it with proper credit. 🤝
