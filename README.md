@@ -37,3 +37,9 @@ A smart **Machine Learning-powered** web app built using **Streamlit** and the *
      * Rainfall
 
      * Label (Crop Type)
+
+## 🧠 Model Overview
+
+The system employs the **K-Nearest Neighbors (KNN)** classification algorithm to analyze soil composition and environmental conditions.
+By finding the “closest match” between user input and historical data, the model predicts which crop performs best in similar conditions.
+This makes it an efficient, interpretable, and reliable recommendation system for farmers and agricultural researchers.
