@@ -56,8 +56,27 @@ This makes it an efficient, interpretable, and reliable recommendation system fo
 
 ✅ **Recommended Crop Name** — optimized for soil and climate conditions provided by the user.
 
-💻 Deployment
+## 💻 Deployment
 
 The application runs seamlessly through **Streamlit**, allowing real-time interaction with minimal setup.
 
 The app can be deployed locally or hosted on platforms such as Streamlit Cloud or Render for wider accessibility.
+
+## ⚙️ Quick Start
+
+### 1️⃣ Clone the repository
+
+```
+git clone https://github.com/yourusername/Crop-Recommendation-System.git
+cd Crop-Recommendation-System
+```
+
+### 2️⃣ Install dependencies
+```
+pip install -r requirements.txt
+```
+
+### 3️⃣ Run the app
+```
+streamlit run app.py
+```
