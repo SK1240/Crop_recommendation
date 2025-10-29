@@ -43,3 +43,11 @@ A smart **Machine Learning-powered** web app built using **Streamlit** and the *
 The system employs the **K-Nearest Neighbors (KNN)** classification algorithm to analyze soil composition and environmental conditions.
 By finding the “closest match” between user input and historical data, the model predicts which crop performs best in similar conditions.
 This makes it an efficient, interpretable, and reliable recommendation system for farmers and agricultural researchers.
+
+## 💡 How It Works
+
+* User enters soil nutrients and environmental parameters through the **Streamlit interface**.
+
+* The trained **KNN model** processes these values and compares them with the dataset.
+
+* Based on similarity, the model outputs the recommended crop that is most likely to yield well.
